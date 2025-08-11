@@ -1,6 +1,6 @@
 import requests
 
-url = "https://prod-30.centralindia.logic.azure.com:443/workflows/bcb4ee42b14f45b0925c498c0283fbef/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=NqkeiCL-jrUgsIaKBldy8i8zOZb81kE9ylcvDxBr5Pg"
+url = "TEAMS_WORKFLOW_URL"
 
 payload = {
     "sender_name": "Alex",
